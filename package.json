@@ -1,0 +1,14 @@
+{
+  "name": "learn-jest-testing-library",
+  "version": "1.0.0",
+  "description": "\"Learn Jest Testing Library\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
